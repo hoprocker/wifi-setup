@@ -1,0 +1,5 @@
+This is a configure repo specifically for our internal network. It requires an install of Raspbian/wheezy, root access (can be run as sudo), and a connection to the internet.
+
+To run:
+
+curl -o - "https://raw.github.com/hoprocker/wifi-setup/master/install.sh" | bash
